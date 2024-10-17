@@ -32,6 +32,7 @@ Capture screenshots of the waveform and save the simulation logs. These will be 
 Diagram
 ![image](https://github.com/user-attachments/assets/d7ecb419-906e-4e3b-9b82-f86ced4f364a)
 
+
 Verilog Code for Seven-Segment Display
 
 // seven_segment_display.v
@@ -89,6 +90,8 @@ module tb_seven_segment_display;
   $stop;
 end
 endmodule
+output:![image](https://github.com/user-attachments/assets/58b87e99-3e29-41a1-9e45-ef0b247a5c5b)
+
 
 
 Conclusion
